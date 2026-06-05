@@ -1,9 +1,7 @@
 # Measurements log
 
-Fill this in as you take readings. Even rough multimeter numbers are worth recording.
-
 ## Supply voltage
-- VCC used during testing: __ V
+- VCC used during testing: 9 V
 
 ## Output voltage (approximate, multimeter across speaker terminals)
 | Volume pot position | Approx. output (mV) |
