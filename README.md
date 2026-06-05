@@ -1,6 +1,6 @@
 # LM386 Audio Amplifier — Mono Channel, 0.25W Speaker
 
-**IC:** LM386 | **Speaker:** 8Ω, 0.25W | **Supply:** 5–9V DC | **Status:** Breadboard prototype ✅ — soldering to perfboard pending
+**IC:** LM386 | **Speaker:** 8Ω, 0.25W | **Supply:** 9V DC | **Status:** Breadboard prototype done— soldering to perfboard pending
 
 A breadboard prototype of a variable-gain audio amplifier built around the LM386. Input is sourced from a repurposed stereo earphone converted to mono. Gain was tuned experimentally from ×50 to ×200, with output capacitance adjusted to correct bass-boost distortion.
 
