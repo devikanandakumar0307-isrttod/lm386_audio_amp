@@ -13,7 +13,7 @@ The reference schematic (×50 gain configuration) is in `hardware/schematic-x50-
 | Parameter | Value |
 |-----------|-------|
 | IC | LM386N |
-| Supply voltage | 5V (USB) during testing |
+| Supply voltage | 9V  during testing |
 | Gain | ×200 (final, pins 1–8 bridged via C2, R2 removed) |
 | Output coupling cap (C1) | 20µF (2× 10µF in parallel) |
 | Output resistor (R1) | 10Ω |
